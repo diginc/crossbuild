@@ -37,6 +37,7 @@ RUN set -x; \
         llvm                                           \
         mercurial                                      \
         multistrap                                     \
+        musl-tools                                    \
         patch                                          \
         python-software-properties                     \
         software-properties-common                     \
